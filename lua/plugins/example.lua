@@ -11,7 +11,7 @@ if true then return {} end
 return {
   -- add gruvbox
   { "ellisonleao/gruvbox.nvim" },
-
+  { "ThePrimeagen/vim-be-good" },
   {
     "linux-cultist/venv-selector.nvim",
     branch = "regexp", -- Use this branch for the new version
